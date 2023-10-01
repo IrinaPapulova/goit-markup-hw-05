@@ -739,7 +739,7 @@ input:placeholder {
   fill: transparent;
 }
 
-input:checked + label.checkbox-span {
+input:checked + label .checkbox-span {
   background-color: #404bbf;
   border: none;
   fill: #f4f4fd;
